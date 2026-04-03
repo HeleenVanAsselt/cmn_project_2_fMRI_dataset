@@ -60,6 +60,8 @@ For each subject:
 
 Group-level statistical comparison performed using a paired t-test.
 
+Confusion matrix
+
 ---
 
 ## Reproducibility
